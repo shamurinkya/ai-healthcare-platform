@@ -1,26 +1,32 @@
 AI HEALTHCARE PLATFORM
-�VERVIEWew
 
+Overview
 AI Healthcare Platform is a multi-page medical AI web application developed using Python, TensorFlow, and Streamlit.
 
-The platform integrates multiple healthcare disease detection systems into one centralized dashboard for medical image analysis and AI-assisted diagnoisFEATURES� -atures
+The platform integrates multiple healthcare disease detection systems into one centralized dashboard for medical image analysis and AI-assisted diagnois.
 
-✅ Brain Tumo-Detection
-✅ Skin Canc- Detection
-✅ ECG Arrhyth-a Detection
-✅ Alzhe-er Detection
-✅ Multi-page Stre-lit Dashboard
-✅ AI Predictions with C-fidence Scores
-✅ Medical Imae oad EACHNOLOGIES USED� 1. Technologi2. Used3.
-* TensorFlow
-* Keras
-* CNN (Convo4.tional Neu5.l Netw6.ks)
-* Stream7.it
-* NumyPROJECT STRUCTUREython
+Features
+- Brain Tumo-Detection
+- Skin Canc- Detection
+- ECG Arrhyth-a Detection
+- Alzhe-er Detection
+- Multi-page Stre-lit Dashboard
+- AI Predictions with C-fidence Scores
+- Medical Imae oad 
 
-⸻
 
-📂 Project Structure
+
+AI Technologies Used
+
+- TensorFlow
+- Keras
+- CNN (Convolution Neural Networks)
+- Streamlit
+- NumPy
+- Pillow (PIL)
+- Python
+
+Project Structure
 
 ai-healthcare-platform/
 │
@@ -28,8 +34,11 @@ ai-healthcare-platform/
 ├── models/
 ├── notebooks/
 ├── pages/
-├── screensSCREENSHOTS
+├── screenshots/
+├── requirements.txt
+├──README.md
 
+Screenshots
 ![Home](screenshots/home.png)
 
 ![Brain Tumor](screenshots/brain.png)
@@ -38,15 +47,10 @@ ai-healthcare-platform/
 
 ![ECG](screenshots/ecg.png)
 
-![Alzheimer](screenshots/alzheimer.png)osHOW TO RUNe)
+![Alzheimer](screenshots/alzheimer.png)
 
-Alzheimer Detection
 
-(Add screenshot here)
-
-⸻
-
-▶️ How To Run
+ How To Run
 
 1. Clone Repository
 
@@ -57,39 +61,30 @@ git clone https://github.com/shamurinkya/ai-healthcare-platform.git
 cd ai-healthcare-platform
 
 3. Install Requiremt
-FEATURES IMPROVEMENTSui-ements.txt
+pip install -r requirements.txt
 
 4. Run Streamlit-App
 
 streamlit run -pp.py
 
-⸻
 
-🎯 F-ture Improvements
+ Future Improvements
 
-* Doct-r Authentication S-stem
-* PDF Medical Reor
-ISCLAIMEReployment
-* Explainable AI (Grad-CAM)
-* Patient Database
-* DICOM Image Support
+1. Doctor Authentication S-stem
+2. PDF Medical Reor
+3. Cloud Development
+4. Explainable AI (Grad-CAM)
+5. Patient Database
+6. DICOM Image Support
 
-⸻
 
-⚠️ Disclaimer
-
-This projet  UTHORtional an Humphrey Nkyasea.Sc.Radiography with Minor AI and Machine Learning in Healthcareofort
-
-⸻
-
-⚠️ Disclaimer
+Disclaimer
 
 This project is for educational and research purposes only and should not replace professional medical diagnosis.
 
-⸻
 
-👨‍💻 Author
+Author
 
-Shamurinkya
+Shamuri H Nkya
 
-Biomedical AI & Healthcare Technology Enthus
+B.Sc.Radiography with minor AI and Machine Learning in healthcare
